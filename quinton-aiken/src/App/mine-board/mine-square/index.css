@@ -1,0 +1,10 @@
+.square {
+  flex: 1;
+  min-height: 30px;
+  background-color: black;
+  margin: 5px;
+}
+
+.clicked {
+  background: white;
+}

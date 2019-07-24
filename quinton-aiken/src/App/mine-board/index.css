@@ -1,0 +1,9 @@
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.mine-board {
+  max-width: 500px;
+  margin: 0 auto;
+}
